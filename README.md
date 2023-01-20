@@ -37,7 +37,7 @@ $ python boot.py
 ```
 
 > **Note**
-> You CANT use this OS on Linux or Mac BECAUSE this is only a beta of my OS (Operating System)
+> You CANT use this OS on Linux OR Mac because this is only a beta of my OS (Operating System)
 
 
 ## Download
