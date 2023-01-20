@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://github.com/THJepTheDep/MAZOS/blob/main/Pictures/OS%20MAZ%20BOOT.png" alt="Markdownify" width="200"></a>
+  <a href="" alt="Markdownify" width="200"></a>
   <br>
   Markdownify
   <br>
@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://badge.fury.io/js/electron-markdownify">
-    <img src="https://badge.fury.io/js/electron-markdownify.svg"
+    <img src="https://github.com/THJepTheDep/MAZOS/blob/main/Pictures/OS%20MAZ%20BOOT.png"
          alt="Gitter">
   </a>
   <a href="https://gitter.im/amitmerchant1990/electron-markdownify"><img src="https://badges.gitter.im/amitmerchant1990/electron-markdownify.svg"></a>
