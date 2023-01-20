@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="" alt="Markdownify" width="200"></a>
+  <a href="" alt="MAZ OS" width="200"></a>
   <br>
   Markdownify
   <br>
