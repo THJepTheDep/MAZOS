@@ -3,7 +3,7 @@
   <br>
   <a href="" alt="MAZ OS" width="200"></a>
   <br>
-  Markdownify
+  MAZ OS
   <br>
 </h1>
 
