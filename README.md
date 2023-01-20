@@ -31,7 +31,7 @@ $ git clone https://github.com/THJepTheDep/MAZOS.git
 # Go into the repository
 $ cd MAZOS
 
-# Run the boot.py file
+# Run the boot.py file in CMD
 $ python boot.py
 
 ```
