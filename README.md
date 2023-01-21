@@ -7,7 +7,7 @@
   <br>
 </h1>
 
-<h4 align="center">A Simple OS (Operating System) built on top of <a href="https://www.python.org" target="_blank">Python</a>.</h4>
+<h4 align="center">A Simple OS built on top of <a href="https://www.python.org" target="_blank">Python</a>.</h4>
 
 <p align="center">
     <img src="https://github.com/THJepTheDep/MAZOS/blob/main/Pictures/OS%20MAZ%20BOOT.png"
