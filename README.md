@@ -34,8 +34,8 @@ $ cd MAZOS
 # Install the requirements
 $ pip install -r requirements.txt
 
-# Run the .exe file:
-$ boot.exe
+# Run the boot file
+$ start boot.exe
 
 ```
 
