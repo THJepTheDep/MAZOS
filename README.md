@@ -31,8 +31,11 @@ $ git clone https://github.com/THJepTheDep/MAZOS.git
 # Go into the repository
 $ cd MAZOS
 
-# Run the boot.py file in CMD
-$ python boot.py
+# Install the requirements
+$ pip install -r requirements.txt
+
+# Run the .exe file:
+$ boot.exe
 
 ```
 
